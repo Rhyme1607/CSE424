@@ -1,2 +1,2 @@
-#CSE424
-Pattern Recognition (AAR)
+## CSE424
+Pattern Recognition - AAR
