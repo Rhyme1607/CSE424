@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=3a6I1B92qmU&list=PL4QEG4mVM5lG5Kbz-S5lRa2__dWyzx
 
 Public link to the slide (Anyone on the internet can view without login):
 https://www.canva.com/design/DAF2UbTwkpw/SF-8ZVl665nxLxHLZd8s0A/edit?utm_content=DAF2UbTwkpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-https://docs.google.com/presentation/d/1SpMrS7CYFg2OUVOp7Pjb8ctp3dKr8ro1ZDBwY8SFdUw/edit#slide=id.g296894464df_2_197
+https://docs.google.com/presentation/d/1tw7aFrDDi4P7jN1um1THEGzbfcZGc7rmMW2_ADW0PKc/edit?usp=sharing
 
 Paper title:
 Hybrid CNN-SVM Classifier for Efficient Depression Detection System
