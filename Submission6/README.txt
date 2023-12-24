@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://www.youtube.com/watch?v=JEhR6iH_yyI
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1U8SoXaagvNBTrNGxycY4OIWtBz_1JUXTtVHJ-EPUTWE/edit?usp=sharing
+https://docs.google.com/presentation/d/1d7TvUSzlv3UXxQ2e7xfJULcTAFX_ghoHo8WgvUSYwqA/edit?usp=sharing
 
 Project title:
 Comparative Analysis Of Machine Learning And Deep Learning Models For EEG-Based Schizophrenia Detection
